@@ -1,0 +1,66 @@
+[
+  [
+    "user",
+    "hello"
+  ],
+  [
+    "bot",
+    "Greetings! How are you doing?"
+  ],
+  [
+    "user",
+    "i am good. tell me how can you help"
+  ],
+  [
+    "bot",
+    "I can help with basic conversation, tell jokes, provide time/date, and more!"
+  ],
+  [
+    "user",
+    "what is the date today"
+  ],
+  [
+    "bot",
+    "That's interesting! Tell me more."
+  ],
+  [
+    "user",
+    "time"
+  ],
+  [
+    "bot",
+    "Can you tell me more about that topic?"
+  ],
+  [
+    "user",
+    "what time is now"
+  ],
+  [
+    "bot",
+    "The current time is 22:02:50"
+  ],
+  [
+    "user",
+    "tell me a joke"
+  ],
+  [
+    "bot",
+    "Why don't programmers like nature? It has too many bugs!"
+  ],
+  [
+    "user",
+    "lol"
+  ],
+  [
+    "bot",
+    "That's interesting! Tell me more."
+  ],
+  [
+    "user",
+    "quit"
+  ],
+  [
+    "bot",
+    "Goodbye! It was nice chatting with you!"
+  ]
+]
